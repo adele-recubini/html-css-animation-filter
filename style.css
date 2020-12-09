@@ -77,3 +77,58 @@
 .ex-1-square:hover {
     background: red;
 }
+/* esercizio due  */
+
+.ex-2-square {
+    width: 100px;
+    transition: width 3s;
+}
+.ex-2-square:active{
+  width: 400px;
+}
+/* esercizio 3 */
+.ex-3-square {
+    width: 100px;
+    height: 100px;
+    transition: border-radius 2s;
+}
+.ex-3-square:hover{
+  border-radius: 50%;
+}
+/* esercizio 4 */
+.ex-4-square {
+  width: 100px;
+  height: 100px;
+  transition: width 4s height 4s;
+}
+.ex-4-square:hover{
+   width: 0;
+   height: 0;
+}
+/* esercizio 5 */
+.ex-5-square {
+    width: 60px;
+    height: 60px;
+    transition: width 2s
+}
+.ex-5-square:hover{
+  width: 80px;
+}
+.ex-5-square:active{
+  width: 20px;
+}
+/* esercizio 6 */
+.ex-6-img {
+    width: 500px;
+}
+.ex-6-img:hover{
+  filter: grayscale(100%);
+}
+/* esercizio 7 */
+.ex-7-img {
+    width: 500px;
+    transition: 4s;
+}
+.ex-7-img:hover{
+  filter: grayscale(100%);
+}
