@@ -196,9 +196,9 @@
     }
 }
 .ex-12-button:hover .ex-12-bottom-white {
-    animation: ado3 2s linear;
+    animation: ado4 2s linear;
 }
-@keyframes ado3 {
+@keyframes ado4 {
     0% {
         right: 20%;
     }
@@ -212,9 +212,9 @@
 /* esercizio 13 */
 
 .ex-13-button:hover .ex-13-top-white {
-    animation:ado4 2s linear;
+    animation:ado5 2s linear;
 }
-@keyframes ado4 {
+@keyframes ado5 {
     0% {
         left: 10%;
         top: -10px;
@@ -241,9 +241,9 @@
     }
 }
 .ex-13-button:hover .ex-13-bottom-white {
-    animation:ado4 2s linear;
+    animation:ado6 2s linear;
 }
-@keyframes ado4 {
+@keyframes ado6 {
     0% {
         bottom: -10px;
         right: 20%;
