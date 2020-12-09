@@ -198,7 +198,7 @@
 .ex-12-button:hover .ex-12-bottom-white {
     animation: ado3 2s linear;
 }
-@keyframes moveBottomWhite {
+@keyframes ado3 {
     0% {
         right: 20%;
     }
